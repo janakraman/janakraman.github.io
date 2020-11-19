@@ -14,7 +14,7 @@
 
 h1 {
   font-size: 3rem;
-  color: #F1E4F3;
+  color: #FFFBFE;
 }
 h2 {
   font-size: 2rem;
@@ -46,7 +46,7 @@ nav {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  color: #F1E4F3;
+  color: #FFFBFE;
   text-transform: uppercase;
   letter-spacing: 5px;
   font-size: 20px;
@@ -65,7 +65,7 @@ nav {
 }
 
 .cart a {
-  color: #F1E4F3;
+  color: #FFFBFE;
   text-decoration: none;
   letter-spacing: 3px;
   font-weight: 100;
@@ -74,7 +74,7 @@ nav {
 
 .shopping-cart {
   cursor: pointer;
-  color: #F1E4F3;
+  color: #FFFBFE;
   transition: all 0.3s ease;
   display: block;
 }
@@ -102,7 +102,7 @@ nav {
 }
 
 .banner-content {
-  color: #F1E4F3;
+  color: #FFFBFE;
   padding-top: 12em;
   width: 80%;
 }
@@ -131,7 +131,7 @@ nav {
   }
 
   .cart .title {
-    color: #F1E4F3;
+    color: #FFFBFE;
     margin-top: 100px;
   }
 
@@ -141,7 +141,7 @@ nav {
 
 
 body {
-  background-color: #F1E4F3;
+  background-color: #FFFBFE;
 }
 
 .title {
@@ -174,7 +174,7 @@ body {
 }
 
 .paket {
-  background: #F1E4F3;
+  background: #FFFBFE;
   border-radius: 0.5rem;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
   padding: 1.5rem;
@@ -226,7 +226,7 @@ body {
 }
 
 .negara {
-  background: #F1E4F3;
+  background: #FFFBFE;
   border-radius: 0.5rem;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
   padding: 2rem;
@@ -285,7 +285,7 @@ body {
 .cart-row {
   display: flex;
   width: 450px;
-  background-color: #F1E4F3;
+  background-color: #FFFBFE;
   margin-bottom: 10px;
   border-radius: 0.5em;
 }
@@ -338,14 +338,14 @@ body {
 }
 
 .cart-total-title {
-  color: #F1E4F3;
+  color: #FFFBFE;
   font-weight: bold;
   font-size: 1.5em;
   margin-right: 20px;
 }
 
 .cart-total-price {
-  color: #F1E4F3;
+  color: #FFFBFE;
   margin-top: 15px;
   font-size: 1.6em;
 }
@@ -370,7 +370,7 @@ body {
 }
 
 footer {
-  color: #F1E4F3;
+  color: #FFFBFE;
   text-align: center;
   padding: 20px 0;
   background-color: #071013;
