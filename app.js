@@ -42,11 +42,11 @@ function paketButtons() {
     const btn = paket.querySelector('.paket-title');
     btn.addEventListener('click', function () {
       // cek kalau ada paket lain yang kebuka
-      paketLiburan.forEach(function (item) {
-        if (item !== paket) {
-          item.classList.remove('show-text');
-        }
-      })
+      // paketLiburan.forEach(function (item) {
+      //   if (item !== paket) {
+      //     item.classList.remove('show-text');
+      //   }
+      // })
       // tunjukin teks keterangan
       paket.classList.toggle('show-text');
     });
